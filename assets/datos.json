@@ -1,0 +1,32 @@
+[
+  {
+    "descripcion": "Bueyes, toros y vacas. Este tipo de ganado produce tanto carne como leche (vacas). También es utilizado para arado aunque en menor medida.",
+    "cantidad": "25",
+    "icon": "cow",
+    "categoria": "Bovino",
+    "id": "1"
+  },
+  {
+    "descripcion": "Ovejas. La explotación puede estar dedicada a la producción de leche, queso, lana o pieles.",
+    "cantidad": "14",
+    "icon": "sheep",
+    "categoria": "Ovino",
+    "id": "2"
+  },
+  {
+   "descripcion": "Cerdos. Se usa principalmente para la producción de carne.",
+    "cantidad": "20",
+    "icon": "pig",
+    "categoria": "Porcino",
+    "id": "3"
+  },
+  {
+    "descripcion": "Caballos y yeguas. Su explotación está centrada en actividades como la hípica, las carreras de caballos o con el objetivo de comerciar. Algunos caballos o yeguas han llegado a alcanzar precios de millones de dólares.",
+    "cantidad": "35",
+    "icon": "horseshoe",
+    "categoria": "Equino",
+    "id": "4"
+  }
+]
+
+
